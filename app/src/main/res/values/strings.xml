@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="nuclear_activate">EXPLOOSION</string>
+    <string name="exploded">boom</string>
+    <string name="reset">TIME REVERSED</string>
+
+</resources>
